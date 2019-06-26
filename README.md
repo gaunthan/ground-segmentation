@@ -10,6 +10,9 @@ cd ground-segmentation
 pip install -r requirements.txt
 ```
 
+### Download dataset
+Run `get_dataset.py` to download the dataset.
+
 ### Launch JupyterLab
 Under ground-segmentation, run the following command to launch JupyterLab
 
@@ -22,7 +25,7 @@ In JupyterLab, open ground_segmentation.ipynb for better understanding about the
 
 ## Screenshots
 
-![](./screenshot/learing-curve.png)
+![](./screenshot/learning-curve.png)
 
 ![](./screenshot/predictions-on-training-set.png)
 
