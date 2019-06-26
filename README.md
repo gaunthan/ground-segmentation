@@ -24,6 +24,10 @@ In JupyterLab, open ground_segmentation.ipynb for better understanding about the
 
 ![](./screenshot/learing-curve.png)
 
+![](./screenshot/epoch_accuracy.png)
+![](./screenshot/epoch_loss.png)
+![](./screenshot/epoch_lr.png)
+
 ![](./screenshot/predictions-on-training-set.png)
 
 ![](./screenshot/predictions-on-test-set.png)
