@@ -10,6 +10,9 @@ cd ground-segmentation
 pip install -r requirements.txt
 ```
 
+### Download dataset
+Run `get_dataset.py` to download the dataset. We use cmu-corridor-dataset to train the model.
+
 ### Launch JupyterLab
 Under ground-segmentation, run the following command to launch JupyterLab
 
@@ -17,12 +20,13 @@ Under ground-segmentation, run the following command to launch JupyterLab
 jupyter-lab .
 ```
 
-In JupyterLab, open ground_segmentation.ipynb for better understanding about the project.
+Model definition, training and inference are written in notebook **ground_segmentation.ipynb**.
 
+you can open it in JupyterLab. 
 
-## Screenshots
+## Evaluate The Model
 
-![](./screenshot/learing-curve.png)
+![](./screenshot/learning-curve.png)
 
 ![](./screenshot/epoch_accuracy.png)
 ![](./screenshot/epoch_loss.png)
