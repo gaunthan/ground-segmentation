@@ -1,0 +1,5 @@
+googledrivedownloader
+scipy
+tqdm
+jupyterlab
+tensorflow-gpu==2.0.0b1
