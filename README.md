@@ -22,8 +22,8 @@ In JupyterLab, open ground_segmentation.ipynb for better understanding about the
 
 ## Screenshots
 
-![](./Learing curve.png)
+![](./screenshot/learing-curve.png)
 
-![](./Predictions on training set.png)
+![](./screenshot/predictions-on-training-set.png)
 
-![](./Predictions on test set.png)
+![](./screenshot/predictions-on-test-set.png)
