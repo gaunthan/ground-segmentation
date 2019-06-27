@@ -25,6 +25,9 @@ Model definition, training and inference are written in notebook **ground_segmen
 you can open it in JupyterLab. 
 
 ## Evaluate The Model
+On test set:
+
+loss: 0.1281, accuracy: 0.9546
 
 ![](./screenshot/learning-curve.png)
 
