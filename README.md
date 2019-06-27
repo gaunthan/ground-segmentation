@@ -28,10 +28,6 @@ you can open it in JupyterLab.
 
 ![](./screenshot/learning-curve.png)
 
-![](./screenshot/epoch_accuracy.png)
-![](./screenshot/epoch_loss.png)
-![](./screenshot/epoch_lr.png)
-
 ![](./screenshot/predictions-on-training-set.png)
 
 ![](./screenshot/predictions-on-test-set.png)
