@@ -28,19 +28,10 @@ you can open it in JupyterLab.
 #### View on Web Browser
 Or, you can view the notebook on web browser by Jupyter Notebook Viewer.
 
+<<<<<<< HEAD
 Click [the lick](https://nbviewer.jupyter.org/github/gaunthan/ground-segmentation/blob/master/ground_segmentation.ipynb) th view.
 
 ## Evaluate The Model
 On test set:
 
 loss: 0.1363, accuracy: 0.9498
-
-![](./screenshot/learning-curve.png)
-
-![](./screenshot/epoch_accuracy.png)
-![](./screenshot/epoch_loss.png)
-![](./screenshot/epoch_lr.png)
-
-![](./screenshot/predictions-on-training-set.png)
-
-![](./screenshot/predictions-on-test-set.png)
