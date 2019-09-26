@@ -28,4 +28,4 @@ you can open it in JupyterLab.
 #### View on Web Browser
 Or, you can view the notebook on web browser by Jupyter Notebook Viewer.
 
-Click [the lick](https://nbviewer.jupyter.org/github/gaunthan/ground-segmentation/blob/master/ground_segmentation.ipynb) th view.
+Click [the lick](https://nbviewer.jupyter.org/github/gaunthan/ground-segmentation/blob/master/ground_segmentation.ipynb) to view.
