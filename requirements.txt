@@ -2,4 +2,4 @@ googledrivedownloader
 scipy
 tqdm
 jupyterlab
-tensorflow-gpu==2.0.0b1
+tensorflow-gpu==2.5.3
